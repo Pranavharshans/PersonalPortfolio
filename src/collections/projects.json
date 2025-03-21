@@ -1,18 +1,18 @@
 [
 {
 "name": "PaperCast-AI",
-"description": "Research Paper to Podcast",
+"description": "Research paper to podcast",
 "image": "/assets/images/projects/tempmail.best.png",
 "url": "https://tempmail.best"
 },
 {
-"name": "DNS.Surf",
-"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+"name": "Yolo crack detection",
+"description": "Detect crack on concrete infra",
 "image": "/assets/images/projects/dns.surf.png",
 "url": "https://dns.surf"
 },
 {
-"name": "HTML.ZONE",
+"name": "Auto Scribe",
 "description": "Web Toolbox.",
 "image": "/assets/images/projects/html.zone.png",
 "url": "https://html.zone"
