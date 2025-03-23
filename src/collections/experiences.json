@@ -1,5 +1,12 @@
 [
-	{
+{
+"dates": "2021 · 2025",
+"role": "Bachelor of Computer Science and Engineering",
+"company": "Sri Eshwar College of Engineering",
+"description": "Major in Computer Science and Engineering with focus on Artificial Intelligence and Machine Learning.",
+"logo": "/assets/images/experiences/srm.ico"
+},
+{
 		"dates": "June 2018 · Present",
 		"role": "Front-end Engineer",
 		"company": "Full Truck Alliance",
